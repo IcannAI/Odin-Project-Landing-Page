@@ -1,1 +1,3 @@
-# Odin-Project-Landing-Page
+# Project: Landing Page
+
+### [Guideline](https://www.theodinproject.com/lessons/foundations-landing-page)
